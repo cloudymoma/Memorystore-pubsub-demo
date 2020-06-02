@@ -1,4 +1,4 @@
-# MemoryStore for Redis pubsub demo
+# MemoryStore for Redis pub/sub demo
 
 ## Provision
 
