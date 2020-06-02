@@ -1,0 +1,16 @@
+{
+  "name": "pubsub-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "author": "Andrei Mititelu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.3",
+    "redis": "^3.0.2",
+    "request": "^2.88.2"
+  }
+}
