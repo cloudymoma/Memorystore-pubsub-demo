@@ -40,7 +40,7 @@ Change pubsub.js to specify the host and port for the Memorystore for Redis
 node app.js
 ```
 
-4. Also, Redis tools provies command line tool for pubsub as well.
+4. Also, Redis tools provide command line tools for pubsub as well.
 
 ```
 redis-cli -h xx.xx.xx.xx -p xxxx
